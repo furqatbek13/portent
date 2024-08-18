@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.flex {
+  display: flex;
+}
+.container {
+  width: 1480px;
+  margin: auto;
+}
+.section-3 {
+  width: 100%;
+  background: linear-gradient(0deg, #000000, #000000),
+    linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5));
+}
+.colleksiya_img img {
+  width: 650px;
+  height: 600px;
+  top: 1664px;
+  gap: 0px;
+  opacity: 0px;
+}
+.line {
+  width: 120px;
+  height: 0px;
+  top: 1843px;
+  left: 1340px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid rgba(255, 255, 255, 1);
+  margin-left: 170px;
+  margin-bottom: 40px;
+}
+.colleksiya_right {
+  padding: 100px 150px;
+}
+.colleksiya_right h1 {
+  font-family: Playfair Display;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 47.99px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  padding-bottom: 40px;
+}
+.colleksiya_right p {
+  width: 491px;
+  height: 173px;
+  top: 1883px;
+  left: 1165px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: PT Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 60px;
+}
+.colleksiya_right button {
+  width: Hug (311px) px;
+  height: Hug (47px) px;
+  top: 2117px;
+  left: 1245px;
+  padding: 12px 28px 12px 28px;
+  gap: 10px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: transparent;
+  color: rgba(255, 255, 255, 1);
+  font-family: PT Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.29px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin-left: 120px;
+  cursor: pointer;
+}
+.colleksiya_right button:hover {
+  background-color: aliceblue;
+  color: black;
+  border: 1px solid transparent;
+  transition: all 0.3s linear;
+}
+.section-4 {
+  background-color: rgba(0, 0, 0, 1);
+  width: 100%;
+  height: 100%;
+  padding: 120px 30px;
+}
+.cards_descriptions h1 {
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  font-family: Playfair Display;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 47.99px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.lines{
+  width: 120px;
+  border: 1px solid rgba(255, 255, 255, 1);
+margin-left: 700px;
+margin-bottom: 80px;
+}
+
+.card img{
+  background-color: rgba(25, 27, 28, 1);
+  margin-bottom: 25px;
+  width: 320px;
+  height: 380px;
+}
+.card h3{
+  font-family: Playfair Display;
+font-size: 18px;
+font-weight: 400;
+line-height: 23.99px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+padding-bottom: 10px;
+}
+.card h4{
+  font-family: Playfair Display;
+font-size: 16px;
+font-weight: 700;
+line-height: 21.33px;
+text-align: left;
+color: rgba(208, 208, 208, 1);
+}
+.cards_parents{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+footer{
+  background-color: rgba(15, 15, 15, 1);
+  width: 100%;
+  height: 100%;
+  
+}
+.linee{
+  width: 120px;
+  border: 1px solid rgba(208, 208, 208, 1);
+  margin-left: 680px;
+  margin-bottom: 40px;
+}
+.footer_div{
+  padding: 60px 0px 80px 0px;
+}
+.footer_div h1{
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  font-family: Playfair Display;
+font-size: 36px;
+font-weight: 700;
+line-height: 47.99px;
+text-align: center;
+padding-bottom: 40px;
+}
+
+.footer_imgs img{
+  padding: 50px;
+  text-align: center;
+}
